@@ -2,16 +2,16 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1piV0zW9KrLv6qBXN0aKg6hyiKQVOndQ139zH2UrSmTs/edit?usp=sharing
 
 Paper title:
-NLP using ANN
+MMBERT: Multimodal BERT Pretraining for Improved Medical VQA
 
 Link to the paper:
-https://ieeexplore......
+https://ieeexplore.ieee.org/document/9434063.
 
 Group Number:
-0
+2
 
 Individual Submitter:
-12345678 Name A
+18301189 S. M. Navin Nayer Anik
