@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1piV0zW9KrLv6qBXN0aKg6hyiKQVOndQ139zH2UrSmTs/edit?usp=sharing
 
 Paper title:
 MMBERT: Multimodal BERT Pretraining for Improved Medical VQA
