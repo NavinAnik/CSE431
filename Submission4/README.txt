@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Rundown of the Medical Natural Language Processing Task based on Actual Documents
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1vW0ROBO5Bu44dxQZ9L1v2EObj5N81-CIB_Ib1DGzf8Y/edit?usp=sharing
