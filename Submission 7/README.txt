@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/qqggsscbggwf
 
 Unlisted YouTube video:
-https://youtu.be/bIX2BFDROjk
+https://youtu.be/62IwU-rY5VA
 
 Conference submitted paper / paper submission / login Link:
 https://edas.info/
@@ -11,7 +11,7 @@ Paper title:
 Rundown of the Medical Natural Language Processing Task based on Actual Documents
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1jSIXRhTjq_43W6Gv_muWGzDUe8rA0ZjtNZdzSL1FphM/edit?usp=sharing
+https://docs.google.com/presentation/d/1J4eRjeZbg33B8Tm4LupA1MsPgUPttmpUEND644d5isc/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 29 April 2023
