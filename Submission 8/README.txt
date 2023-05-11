@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail.
-https://www.overleaf.com/read/qqggsscbggwf
+https://www.overleaf.com/read/sgxdqwwvcrsp
 
 Unlisted YouTube video:
 https://youtu.be/bIX2BFDROjk
@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://edas.info/
 
 Paper title:
-Rundown of the Medical Natural Language Processing Task based on Actual Documents
+Integrating Subject-Matter Expertise with Natural Language Inference on Clinical Texts
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1jSIXRhTjq_43W6Gv_muWGzDUe8rA0ZjtNZdzSL1FphM/edit?usp=sharing
