@@ -1,6 +1,9 @@
 Link to unlisted YouTube video:
 https://youtu.be/iK9ZR0P_KKM
 
+Link to unlisted Gitlab video:
+https://gitlab.com/s.m.navin.nayer.anik/cse431/-/blob/main/Submission%203/Submission_3_-_Team-_02.mp4
+
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
 https://github.com/NavinAnik/CSE431/blob/main/submission3/Concept%20Map.pdf

@@ -4,6 +4,9 @@ https://www.overleaf.com/read/qqggsscbggwf
 Unlisted YouTube video:
 https://youtu.be/8hR5IbOlkXg
 
+Link to unlisted Gitlab video:
+https://gitlab.com/s.m.navin.nayer.anik/cse431/-/blob/main/Submission%204/Submission_4_-_Team_-_02.mp4
+
 Conference submitted paper / paper submission / login Link:
 https://edas.info/
 
