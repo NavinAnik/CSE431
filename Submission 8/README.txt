@@ -1,8 +1,6 @@
 Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/sgxdqwwvcrsp
 
-Unlisted YouTube video:
-https://youtu.be/bIX2BFDROjk
 
 Conference submitted paper / paper submission / login Link:
 https://edas.info/
@@ -10,14 +8,12 @@ https://edas.info/
 Paper title:
 Integrating Subject-Matter Expertise with Natural Language Inference on Clinical Texts
 
-Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1jSIXRhTjq_43W6Gv_muWGzDUe8rA0ZjtNZdzSL1FphM/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
-29 April 2023
+18 May 2023
 
 Paper submission ID: (received) from conference/workshop
-1570908293
+1570915037
 
 Conference Name:
 15th IEEE International Conference CICN 2023
